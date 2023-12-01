@@ -57,16 +57,14 @@ html {
     
   }
   
-  img {
-    max-width: 100%;
-    display: block;
-    height: auto;
-  }
-  
   #img-div {
+    display: flex;
+    justify-content: center;
     padding: 5px;
     margin: 0;
     border-radius: 10px;
+    max-width: 100%;
+    height: auto;
   }
   
   #img-caption {
