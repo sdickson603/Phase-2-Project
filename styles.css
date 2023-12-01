@@ -54,16 +54,13 @@ html {
   }
   
   @media (max-width: 600px) {
-    #main {
-      margin: 0;
-    }
+    
   }
   
   img {
     max-width: 100%;
     display: block;
     height: auto;
-    margin: 0 auto;
   }
   
   #img-div {
